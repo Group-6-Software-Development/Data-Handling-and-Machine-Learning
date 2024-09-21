@@ -1,2 +1,3 @@
-## Data Handling and Machine Learning course which is the part of the Software Engineering Curriculum in Metropolia UAS.
-There wil be 2 folders, one for group home assignments and another for practice work assignment.
+# Data Handling and Machine Learning
+
+Software Development - Data Handling and Machine Learning Course - JupyterNotebook Codes and Scripts for Data Analysis and Visualization
